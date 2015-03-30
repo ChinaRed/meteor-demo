@@ -1,0 +1,27 @@
+body{
+  background-color:#EC7702;
+}
+
+.post{
+  color:#EC7702;
+  margin: 10px;
+  border: 1px solid #bebebe;
+  border-radius: 5px;
+  padding:20px;
+  background-color: #fff;
+}
+
+.post div{
+  margin: 10px;
+}
+.score{
+  font-weight: bold; 
+}
+
+.score a{
+  cursor: pointer;
+}
+
+.content{
+  font-family: Verdana; 
+}
