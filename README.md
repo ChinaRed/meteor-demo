@@ -26,3 +26,4 @@ Resources:
 * [Iron Router Tutorial](http://www.manuel-schoebel.com/blog/iron-router-tutorial)
 * [Iron Router Part 1](http://meteortips.com/tutorial/iron-router-part-1/)
 * [Mongol](https://github.com/msavin/Mongol)
+* [Angular Meteor](https://www.youtube.com/watch?v=uFmf-DeCdEE)
