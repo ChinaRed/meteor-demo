@@ -25,3 +25,10 @@ body{
 .content{
   font-family: Verdana; 
 }
+
+.timer{
+  margin: 10px;
+  color: #fff;
+  font-weight: bold;
+  font-family: Arial;
+}
